@@ -7,4 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practica';
+  show:boolean = true;
+  activo:string = '';
+  fondoDos:string = '';
 }
